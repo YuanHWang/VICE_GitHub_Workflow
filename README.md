@@ -1,6 +1,6 @@
 # VICE GitHub Workflows
 
-This is the repository for Michael.
+This is the repository for Yuan.
 
 Launch VICE app with shared data input here:
 
